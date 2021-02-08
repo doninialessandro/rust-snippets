@@ -1,3 +1,5 @@
+mod types_and_variables;
+
 fn main() {
-    println!("Hello, world!");
+    types_and_variables::sub();
 }
