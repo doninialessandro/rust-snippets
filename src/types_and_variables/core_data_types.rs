@@ -1,13 +1,13 @@
 use std::mem;
 
 pub fn function() {
-    println!("CORA DATA TYPES");
+    println!("--- CORE DATA TYPES ---");
     println!("- NUMBERS");
     // let binding
     let a: u8 = 4; // u = unsigned, 8 bits, 0 - 255
     println!("a: My first u8 number, called a, is: {}", a); // a is immutable, cannot be change
 
-    // u = unsinge, 0 ... 2^N-1
+    // u = unsinged, 0 ... 2^N-1
     // i = signed, -2^(N-1) ... 2^(N-1)-1 (due to 0 value)
     let mut b: i8 = 8;
     println!("b: My first i8 number, called b, is: {}", b);
