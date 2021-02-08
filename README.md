@@ -1,7 +1,7 @@
 # rust-snippets
 This repo contains some Rust snippets to understand the basis.
 
-## Contents
+## 🎯 Roadmap
 - [ ] 1. Types and Variables
 - [ ] 2. Control Flow
 - [ ] 3. Data Structures
