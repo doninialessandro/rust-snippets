@@ -7,6 +7,7 @@ pub fn function() {
     println!("const: {}", MEANING_OF_LIFE);
     println!("static: {}", Z);
     unsafe {
+        ZU = 4;
         println!("static (unsafe): {}", ZU);
     }
 }
