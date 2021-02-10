@@ -3,7 +3,7 @@ This repo contains some Rust snippets to understand the basis.
 
 ## 🎯 Roadmap
 - [x] 1. Types and Variables
-- [ ] 2. Control Flow
+- [x] 2. Control Flow
 - [ ] 3. Data Structures
 - [ ] 4. Standard Collections
 - [ ] 5. Characters and Strings

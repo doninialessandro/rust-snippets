@@ -1,3 +1,4 @@
+mod combination_lock;
 mod for_loop;
 mod if_statement;
 mod match_statement;
@@ -8,4 +9,5 @@ pub fn sub() {
     while_and_loop::function();
     for_loop::function();
     match_statement::function();
+    combination_lock::function();
 }
